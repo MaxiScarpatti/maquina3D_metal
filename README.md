@@ -1,1 +1,1 @@
-# maquina3D_metal
+Actividad: "Diseño y Desarrollo de Objetos"
